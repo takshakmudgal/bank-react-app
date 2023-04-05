@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "iban_data": {
+        "ISO_country_code": "AD",
+        "account_number": "200359100100",
+        "bank_code": "0001",
+        "checksum": "12",
+        "iban": "AD1200012030200359100100"
+      },
+      "swift_data": {
+        "address": "",
+        "branch": "ANDORRA BANC AGRICOL REIG S.A., LES ESCALDES",
+        "city": "LES ESCALDES",
+        "country": "Andorra",
+        "country_code": "AD",
+        "name": "Andorra",
+        "swift": "BACAADAD",
+        "zip": ""
+      }
+    },
+    {
+      "iban_data": {
+        "ISO_country_code": "AD",
+        "account_number": "200359100100",
+        "bank_code": "0001",
+        "checksum": "12",
+        "iban": "AD1200012030200359100100"
+      },
+      "swift_data": {
+        "address": "",
+        "branch": "ANDORRA GESTIO AGRICOL REIG SAU, ESCALDES-ENGORDANY",
+        "city": "ESCALDES-ENGORDANY",
+        "country": "Andorra",
+        "country_code": "AD",
+        "name": "Andorra",
+        "swift": "AAMAADAD",
+        "zip": ""
+      }
+    },
+    {
+      "iban_data": {
+        "ISO_country_code": "AD",
+        "account_number": "200359100100",
+        "bank_code": "0001",
+        "checksum": "12",
+        "iban": "AD1200012030200359100100"
+      },
+      "swift_data": {
+        "address": "",
+        "branch": "BANC SABADELL D'ANDORRA S.A., ANDORRA LA VELLA",
+        "city": "ANDORRA LA VELLA",
+        "country": "Andorra",
+        "country_code": "AD",
+        "name": "Andorra",
+        "swift": "BSANADAD",
+        "zip": ""
+      }
+    }
+  ]
+}
